@@ -5,6 +5,7 @@ Held at the Bioinformatics training room, Downing site,  on **5th JULY 2019** fr
 Ash.    
 Mark.   
 *Batman*
+Stan.
 
 ## Topics
 Headings   
