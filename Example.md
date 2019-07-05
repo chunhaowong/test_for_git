@@ -1,9 +1,10 @@
 #### What is Markdown and how do we use it to create web-pages?
-Held at the Fawkes Training Room on 5th November from 13:00 to 17:00  
+Held at the Bioinformatics training room, Downing site,  on **5th JULY 2019** from 9:30 to 17:30  
 <a name="TheTop"></a>
 ### Trainers
 Ash.    
 Mark.   
+*Batman*
 
 ## Topics
 Headings   
